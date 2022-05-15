@@ -60,16 +60,16 @@ The distance From Source : 0 	-1 	2 	-2 	1 	<br>
  <br>
 -------------------SAMPLE OUTPUT--------------------<br>
 <br>
-vertexertex 	Distance from Source<br>   
-   0 		                0 <br>
-   1 	               	 4<br>
-   2 		                12<br>
-   3 	               	 19<br>
-   4 	               	 21<br>
-   5 	               	 11<br>
-   6 		                9<br>
-   7 		                8<br>
-   8 		                14<br>
+vertex: 	Distance from Source<br>   
+   0 		:                0 <br>
+   1 	   :            	 4<br>
+   2 		 :               12<br>
+   3 	     :          	 19<br>
+   4 	      :         	 21<br>
+   5 	       :        	 11<br>
+   6 		     :           9<br>
+   7 		      :          8<br>
+   8 		       :         14<br>
 <br>
 <br>
  <br>
