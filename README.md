@@ -37,3 +37,41 @@ The distance From Source : 0 	-1 	2 	-2 	1 	<br>
  <br>
  Steps to run-<br>
 [clone git ptoject -> import project->build->Run BellmanFord.cpp]<br>
+
+<br>
+<b><u>Dijkstra's Algorithm for shortest path finding:</b></u><br>
+-------------------SAMPLE INPUT--------------------<br>
+    vertex = 9;  <br>
+    graph.edge_add(0, 7, 8); <br>
+    graph.edge_add(0, 1, 4); <br>
+    graph.edge_add(1, 7, 11);  <br>
+    graph.edge_add(1, 2, 8);<br>
+    graph.edge_add(2, 5, 4);<br>
+    graph.edge_add(2, 8, 2);  <br>
+    graph.edge_add(2, 3, 7);  <br>
+    graph.edge_add(3, 5, 14);<br>
+    graph.edge_add(3, 4, 9);  <br>
+    graph.edge_add(4, 5, 10);  <br>
+    graph.edge_add(5, 6, 2); <br>
+    graph.edge_add(6, 8, 6);  <br>
+    graph.edge_add(6, 7, 1);  <br>
+    graph.edge_add(7, 8, 7);  <br>
+    Tp find: shortest Path from source 0 
+ <br>
+-------------------SAMPLE OUTPUT--------------------<br>
+<br>
+vertexertex 	Distance from Source<br>   
+   0 		                0 <br>
+   1 	               	 4<br>
+   2 		                12<br>
+   3 	               	 19<br>
+   4 	               	 21<br>
+   5 	               	 11<br>
+   6 		                9<br>
+   7 		                8<br>
+   8 		                14<br>
+<br>
+<br>
+ <br>
+ Steps to run-<br>
+[clone git ptoject -> import project->build->Run Dijkstra.cpp]<br>
